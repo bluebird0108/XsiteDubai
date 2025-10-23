@@ -14,5 +14,7 @@
 	<string>1</string>
 	<key>CFBundleIconName</key>
 	<string>AppIcon</string>
+	<key>Bundle ID</key>
+	<string>com.shahapp.XsiteDubai</string>
 </dict>
 </plist>
